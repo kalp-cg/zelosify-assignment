@@ -1,13 +1,8 @@
-# Zelosify Task Monorepo
+# zelosify-assignment
 
-This monorepo is maintained for task and assessment purposes.
+Multi-tenant Contract Hiring Management Platform featuring autonomous AI Recommendation Agent with tool calling, deterministic scoring, strict RBAC, and latency SLAs.
 
-It contains:
+## Project Structure
+- `Zelosify-Backend`: Node.js Express server with Keycloak auth, Prisma ORM, and autonomous AI recommendation agent
+- `Zelosify-Frontend`: Next.js 15 portal with role-based routing and dashboards for IT Vendors and Hiring Managers
 
-- `Zelosify-Backend` for backend services and APIs
-- `Zelosify-Frontend` for frontend application code
-
-The repository is intended to organize and submit task-related implementation work in one place.
-
-Regards,
-Zelosify Team

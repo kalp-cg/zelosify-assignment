@@ -2,6 +2,9 @@
 
 Production-Grade Multi-Tenant Contract Hiring Platform featuring an Autonomous LLM Tool-Calling Agent, Deterministic Matching Engine, Strict RBAC, and Latency SLAs.
 
+## 📺 Video Walkthrough Demo
+* **End-to-End Walkthrough (Unedited)**: [https://youtu.be/Y5ShUHGf5kU](https://youtu.be/Y5ShUHGf5kU)
+
 ---
 
 ## 🎯 Architecture Overview
@@ -104,3 +107,6 @@ npm test
   * Performance test: 100-profile simulation verifying P95 < 2000ms.
 
 
+## 🔑 Demo Credentials
+* **IT Vendor**: `user2` / `Password123!`
+* **Hiring Manager**: `user1` / `Password123!`
